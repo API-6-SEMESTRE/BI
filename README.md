@@ -1,2 +1,2 @@
 # BI
-Repositório de Arquivos que serão utilizado para inteligência de dados
+Repositório de Arquivos que serão utilizados para inteligência de dados
