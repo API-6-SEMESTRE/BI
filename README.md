@@ -1,2 +1,2 @@
-# BI
-Repositório de Arquivos que serão utilizado para inteligência de dados
+# Sprint 1
+Arquivos utilizados para apresentação dos dados na primeira Sprint
